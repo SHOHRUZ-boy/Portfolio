@@ -24,9 +24,8 @@ html {
   overflow-x: hidden;
 }
 body {
-  /* background: var(--bg-color); */
-  /* color: var(--text-color); */
-  background-color: red;
+  background: var(--bg-color);
+  color: var(--text-color);
 }
 
  section{
